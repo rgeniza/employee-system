@@ -1,0 +1,12 @@
+
+Employee { name: 'John C', department: 'Accounting' }
+Employee { name: 'Mark F', department: 'IT' }
+Manager { name: 'Lisa G', department: 'Accounting', teamSize: '15' }
+Manager { name: 'Dan L', department: 'Engineering', teamSize: '10' }
+Employee Name:John C, Department:Accounting
+Employee Name:Mark F, Department:IT
+Manager Name: Lisa G, Department:Accounting, teamSize:15
+Manager Name: Dan L, Department:Engineering, teamSize:10
+
+[Done] exited with code=0 in 0.149 seconds
+
